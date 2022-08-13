@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥑 Developer Advocate at JetBrains
+🥑 Developer Advocate at [JetBrains](https://github.com/JetBrains)
 
 💻 Software Engineer
 
