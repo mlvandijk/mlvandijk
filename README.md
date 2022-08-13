@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mlvandijk/mlvandijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥑 Developer Advocate at JetBrains
 
-Here are some ideas to get you started:
+💻 Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and others
+
+🎤 [International conference speaker](https://mlvandijk.github.io/)
+
+📕 Contributor to "[97 Things Every Java Developer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)" - edited by Kevlin Henney & Trisha Gee
+
+📗 Occasional blogger on [Medium](https://medium.com/@mlvandijk)
+
+🎥 Screencasts on [IntelliJ IDEA YouTube Channel](https://www.youtube.com/c/intellijidea)
+
+📫 Reach me on [Twitter](https://twitter.com/MaritvanDijk77)
