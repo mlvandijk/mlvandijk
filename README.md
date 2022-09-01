@@ -4,13 +4,13 @@
 
 💻 Software Engineer
 
+🌎 [Website](https://maritvandijk.com/) including my bio, [blog](https://maritvandijk.com/blog/) and [featured](https://maritvandijk.com/featured/)
+
 💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and others
 
-🎤 [International conference speaker](https://mlvandijk.github.io/)
+🎤 [International conference speaker](https://maritvandijk.com/events/)
 
 📕 Contributor to "[97 Things Every Java Developer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)" - edited by Kevlin Henney & Trisha Gee
-
-📗 Occasional blogger on [Medium](https://medium.com/@mlvandijk)
 
 🎥 Screencasts on [IntelliJ IDEA YouTube Channel](https://www.youtube.com/c/intellijidea)
 
