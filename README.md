@@ -8,7 +8,7 @@
 
 💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and others
 
-🎤 [International conference speaker](https://maritvandijk.com/events/)
+🎤 [International conference speaker](https://maritvandijk.com/events/) 🇳🇱🇬🇧🇯🇵🇫🇷🇧🇾🇪🇸
 
 📕 Contributor to "[97 Things Every Java Developer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)" - edited by Kevlin Henney & Trisha Gee
 
