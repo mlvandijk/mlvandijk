@@ -8,10 +8,10 @@
 
 🎤 [International keynote speaker](https://maritvandijk.com/events/) :netherlands::uk::jp::fr::belarus::es::romania::belgium::czech_republic::switzerland::de::norway:
 
-💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and other projects
-
 📕 Contributor to "[97 Things Every Java Developer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)" - edited by Kevlin Henney & Trisha Gee
 
 🎥 Screencasts on [IntelliJ IDEA YouTube Channel](https://www.youtube.com/c/intellijidea)
 
-📫 Reach me on [Twitter](https://twitter.com/MaritvanDijk77)
+💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and other projects
+
+📫 Reach me on [Twitter](https://twitter.com/MaritvanDijk77), [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social) or [Mastodon](https://mastodon.social/@maritvandijk)
