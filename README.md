@@ -6,7 +6,7 @@
 
 🌎 [Website](https://maritvandijk.com/) including my bio, [blog](https://maritvandijk.com/blog/) and [featured](https://maritvandijk.com/featured/)
 
-🎤 [International keynote speaker](https://maritvandijk.com/events/) :netherlands::uk::jp::fr::belarus::es::romania::belgium::czech_republic::switzerland:
+🎤 [International keynote speaker](https://maritvandijk.com/events/) :netherlands::uk::jp::fr::belarus::es::romania::belgium::czech_republic::switzerland::de::norway:
 
 💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and other projects
 
