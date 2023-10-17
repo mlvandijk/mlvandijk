@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+💻 Software Engineer
+
 🥑 Developer Advocate at [JetBrains](https://github.com/JetBrains)
 
-💻 Software Engineer
+:trophy: Java Champion
 
 🌎 [Website](https://maritvandijk.com/) including my bio, [blog](https://maritvandijk.com/blog/) and [featured](https://maritvandijk.com/featured/)
 
