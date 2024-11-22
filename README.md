@@ -18,4 +18,4 @@
 
 💻 Open Source contributor to [Cucumber](https://github.com/cucumber) and other projects
 
-📫 Reach me on [Twitter](https://twitter.com/MaritvanDijk77), [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social) or [Mastodon](https://mastodon.social/@maritvandijk)
+📫 Reach me on [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social), [Twitter](https://twitter.com/MaritvanDijk77) or [Mastodon](https://mastodon.social/@maritvandijk)
