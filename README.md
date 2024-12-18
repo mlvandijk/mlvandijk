@@ -16,4 +16,4 @@
 
 🖊️ Tips  & Tutorials on [JetBrains Guide](https://www.jetbrains.com/guide/)
 
-📫 Reach me on [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social), Mastodon](https://mastodon.social/@maritvandijk). [LinkedIn](https://www.linkedin.com/in/maritvandijk/) or [Twitter](https://twitter.com/MaritvanDijk77)
+📫 Reach me on [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social), [Mastodon](https://mastodon.social/@maritvandijk). [LinkedIn](https://www.linkedin.com/in/maritvandijk/) or [Twitter](https://twitter.com/MaritvanDijk77)
