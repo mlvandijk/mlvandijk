@@ -8,7 +8,7 @@
 
 🌎 [Website](https://maritvandijk.com/)
 
-🎤 [International keynote speaker](https://maritvandijk.com/events/) :netherlands::uk::jp::fr::belarus::es::romania::belgium::czech_republic::switzerland::de::norway::denmark::finland::sweden::us:🇧🇬:poland::luxembourg::lithuania:🇭🇷🇬🇷🇲🇦(https://www.reddit.com/r/java/comments/1ovh2te/growing_quarkus_in_a_spring_boot_world_kevin/)
+🎤 [International keynote speaker](https://maritvandijk.com/events/) :netherlands::uk::jp::fr::belarus::es::romania::belgium::czech_republic::switzerland::de::norway::denmark::finland::sweden::us:🇧🇬:poland::luxembourg::lithuania:🇭🇷🇬🇷🇲🇦
 
 📕 Contributor to "[97 Things Every Java Developer Should Know](https://www.oreilly.com/library/view/97-things-every/9781491952689/)" - edited by Kevlin Henney & Trisha Gee
 
