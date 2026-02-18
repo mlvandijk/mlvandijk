@@ -2,9 +2,9 @@
 
 💻 Software Engineer
 
-🥑 Developer Advocate at [JetBrains](https://github.com/JetBrains)
-
 :trophy: Java Champion
+
+🥑 Senior Developer Advocate at [JetBrains](https://github.com/JetBrains)
 
 🌎 [Website](https://maritvandijk.com/)
 
