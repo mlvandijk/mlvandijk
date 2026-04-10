@@ -14,6 +14,4 @@
 
 🎥 Videos on [IntelliJ IDEA YouTube Channel](https://www.youtube.com/c/intellijidea) and [JetBrains YouTube Channel](https://www.youtube.com/@JetBrainsTV)
 
-🖊️ Tips  & Tutorials on [JetBrains Guide](https://www.jetbrains.com/guide/)
-
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/maritvandijk/), [BlueSky](https://bsky.app/profile/maritvandijk.bsky.social), [Mastodon](https://mastodon.social/@maritvandijk) or [Twitter](https://twitter.com/MaritvanDijk77)
